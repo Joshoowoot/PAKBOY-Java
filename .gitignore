@@ -1,0 +1,36 @@
+# Build artifacts
+/bin/
+/target/
+/out/
+/build/
+*.class
+
+# IDE and workspace
+.vscode/
+.idea/
+*.iml
+*.ipr
+*.iws
+.classpath
+.project
+.settings/
+
+# Dependency caches
+/.gradle/
+/.mvn/
+
+# Logs and temp files
+*.log
+*.tmp
+*.bak
+*.orig
+*.swp
+*.swo
+
+# OS-specific
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Local environment
+.env
